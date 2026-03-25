@@ -1,0 +1,9 @@
+test_basic_case (test_10056.TestUVA10056.test_basic_case)
+固定案例：涵蓋不同玩家數、不同機率與不同指定玩家序號。 ... ok
+test_random_cases (test_10056.TestUVA10056.test_random_cases)
+隨機產生 50 組（N, p, i），以 oracle 公式全部比對。 ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.046s
+
+OK

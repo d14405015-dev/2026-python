@@ -1,0 +1,10 @@
+test_keep_unmapped_chars (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10222_hand.TestUVA10222HandVersion) ... ok
+test_letters_symbols_and_space (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10222_hand.TestUVA10222HandVersion) ... ok
+test_multi_line_input (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10222_hand.TestUVA10222HandVersion) ... ok
+test_numbers_and_punctuation (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10222_hand.TestUVA10222HandVersion) ... ok
+test_single_char_example (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10222_hand.TestUVA10222HandVersion) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.004s
+
+OK

@@ -1,0 +1,10 @@
+test_minute_unit (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10221_hand.TestUVA10221HandVersion) ... ok
+test_multiple_lines_input (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10221_hand.TestUVA10221HandVersion) ... ok
+test_over_180_degree (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10221_hand.TestUVA10221HandVersion) ... ok
+test_straight_angle (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10221_hand.TestUVA10221HandVersion) ... ok
+test_zero_angle (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10221_hand.TestUVA10221HandVersion) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.009s
+
+OK

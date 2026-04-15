@@ -1,0 +1,11 @@
+test_full_coverage (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10190_hand.TestUVA10190HandVersion) ... ok
+test_no_umbrella (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10190_hand.TestUVA10190HandVersion) ... ok
+test_single_moving (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10190_hand.TestUVA10190HandVersion) ... ok
+test_single_stationary (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10190_hand.TestUVA10190HandVersion) ... ok
+test_two_non_overlapping (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10190_hand.TestUVA10190HandVersion) ... ok
+test_two_overlapping (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10190_hand.TestUVA10190HandVersion) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.005s
+
+OK

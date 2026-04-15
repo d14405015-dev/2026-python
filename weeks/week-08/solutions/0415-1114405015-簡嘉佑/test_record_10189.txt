@@ -1,0 +1,17 @@
+test_all_mines (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10189.TestUVA10189Minesweeper)
+全是地雷時，輸出應與輸入雷區一致。 ... ok
+test_multiple_fields_blank_line (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10189.TestUVA10189Minesweeper)
+多組資料時，Field 之間要有一個空行。 ... ok
+test_no_mines (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10189.TestUVA10189Minesweeper)
+沒有地雷時，所有格子都應為 0。 ... ok
+test_official_sample (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10189.TestUVA10189Minesweeper)
+題目範例測資。 ... ok
+test_single_empty (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10189.TestUVA10189Minesweeper)
+最小無雷案例：1x1 且唯一格子是空白，答案應為 0。 ... ok
+test_single_mine (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10189.TestUVA10189Minesweeper)
+最小有雷案例：1x1 且唯一格子是地雷。 ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+OK

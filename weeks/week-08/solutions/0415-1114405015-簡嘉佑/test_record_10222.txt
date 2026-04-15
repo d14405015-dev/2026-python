@@ -1,0 +1,15 @@
+test_keep_unmapped_chars (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10222.TestUVA10222)
+不在鍵盤映射內的字元（例如 !）應保持原樣。 ... ok
+test_letters_symbols_and_space (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10222.TestUVA10222)
+混合字母、符號、空白。 ... ok
+test_multi_line_input (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10222.TestUVA10222)
+多行輸入應逐行解碼，保留換行結構。 ... ok
+test_numbers_and_punctuation (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10222.TestUVA10222)
+測試數字與標點符號映射。 ... ok
+test_single_char_example (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10222.TestUVA10222)
+題目示例：r 應解碼為 e。 ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.005s
+
+OK

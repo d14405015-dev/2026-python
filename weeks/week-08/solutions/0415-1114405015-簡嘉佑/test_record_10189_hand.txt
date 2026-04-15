@@ -1,0 +1,11 @@
+test_all_mines (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10189_hand.TestUVA10189HandVersion) ... ok
+test_multiple_fields_blank_line (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10189_hand.TestUVA10189HandVersion) ... ok
+test_no_mines (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10189_hand.TestUVA10189HandVersion) ... ok
+test_official_sample (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10189_hand.TestUVA10189HandVersion) ... ok
+test_single_empty (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10189_hand.TestUVA10189HandVersion) ... ok
+test_single_mine (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10189_hand.TestUVA10189HandVersion) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.003s
+
+OK

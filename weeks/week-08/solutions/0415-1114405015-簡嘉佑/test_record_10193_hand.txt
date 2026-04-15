@@ -1,0 +1,11 @@
+test_a_1 (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10193_hand.TestUVA10193HandVersion) ... ok
+test_a_10 (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10193_hand.TestUVA10193HandVersion) ... ok
+test_a_3 (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10193_hand.TestUVA10193HandVersion) ... ok
+test_a_7 (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10193_hand.TestUVA10193HandVersion) ... ok
+test_a_8 (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10193_hand.TestUVA10193HandVersion) ... ok
+test_small_range_exhaustive (weeks.week-08.solutions.0415-1114405015-Â²¹Å¦ö.test_10193_hand.TestUVA10193HandVersion) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.012s
+
+OK

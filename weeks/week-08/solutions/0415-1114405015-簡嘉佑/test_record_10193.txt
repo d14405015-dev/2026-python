@@ -1,0 +1,17 @@
+test_a_1 (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10193.TestUVA10193)
+a=1 的基本案例。 ... ok
+test_a_10 (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10193.TestUVA10193)
+a=10 的案例。 ... ok
+test_a_3 (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10193.TestUVA10193)
+a=3 的案例。 ... ok
+test_a_7 (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10193.TestUVA10193)
+a=7 的案例。 ... ok
+test_a_8 (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10193.TestUVA10193)
+a=8 的案例。 ... ok
+test_small_range_exhaustive (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10193.TestUVA10193)
+小範圍窮舉驗證：a=1..50 都要符合最小 b+c。 ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.009s
+
+OK

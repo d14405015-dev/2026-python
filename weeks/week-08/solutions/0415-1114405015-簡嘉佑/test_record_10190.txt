@@ -1,0 +1,17 @@
+test_full_coverage_stationary (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10190.TestUVA10190)
+全覆蓋情況：整段路都被遮住，雨量應為 0。 ... ok
+test_no_umbrella (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10190.TestUVA10190)
+N=0：沒有任何傘，雨量 = W * T * V。 ... ok
+test_single_moving_umbrella (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10190.TestUVA10190)
+單把移動傘：雖位置變化，但覆蓋長度固定。 ... ok
+test_single_stationary_umbrella (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10190.TestUVA10190)
+單把靜止傘：未覆蓋長度固定。 ... ok
+test_two_stationary_non_overlapping (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10190.TestUVA10190)
+兩把靜止傘不重疊：聯集長度為各自長度加總。 ... ok
+test_two_stationary_overlapping (weeks.week-08.solutions.0415-1114405015-簡嘉佑.test_10190.TestUVA10190)
+兩把靜止傘重疊：覆蓋長度要算聯集，不可重複加總。 ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.010s
+
+OK

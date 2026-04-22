@@ -1,0 +1,14 @@
+測試紀錄檔（UTF-8）
+日期：2026-04-22
+
+執行指令：
+python -m unittest weeks/week-09/solutions/1114405015/test_question_10226.py
+
+執行結果摘要：
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+OK
+
+備註：
+- 已在本機實際執行並通過。
+- 原始 PowerShell 轉存檔 test_question_10226.log 仍保留於同資料夾。

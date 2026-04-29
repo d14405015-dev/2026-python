@@ -1,0 +1,6 @@
+question_10268-easy.py 與 question_10268-optimized.py 差異
+
+1. 兩版都用相同的核心 DP 公式，但 optimized 版把更新範圍縮到 min(eggs, moves)。
+2. optimized 版把 dp 值上限截到 floors，避免數字過大。
+3. 當 k 很大但答案不大時，optimized 版會少做很多無效更新。
+4. 兩者結果相同，但 optimized 版常數成本更低。

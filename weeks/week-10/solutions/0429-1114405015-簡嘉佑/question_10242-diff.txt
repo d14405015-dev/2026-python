@@ -1,0 +1,6 @@
+question_10242-easy.py 與 question_10242-optimized.py 差異
+
+1. easy 版使用 Tarjan SCC；optimized 版改用 Kosaraju，並以 iterative DFS 避免遞迴過深。
+2. optimized 版建立完 SCC 後，只在起點可到達的縮點子圖上做 DP，少處理無關分量。
+3. optimized 版把正圖、反圖、SCC、DAG、DP 的階段切得更清楚，維護性較高。
+4. 兩者時間複雜度同級，但 optimized 版在大型圖時穩定性較好。

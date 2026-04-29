@@ -1,0 +1,7 @@
+question_10226-easy.py 與 question_10226-optimized.py 差異
+
+1. easy 版會先把所有完整排列存進 raw_permutations，再第二次逐筆比較輸出。
+2. optimized 版在 DFS 產生排列當下就直接和上一筆比較，省掉整批排列暫存。
+3. easy 版用 used 陣列記錄是否用過某人；optimized 版改用 bitmask，狀態更輕量。
+4. optimized 版先預算每個位置可放的人，DFS 內少做重複檢查。
+5. 兩者輸出邏輯相同，但 optimized 版在排列數量很多時會更省記憶體。

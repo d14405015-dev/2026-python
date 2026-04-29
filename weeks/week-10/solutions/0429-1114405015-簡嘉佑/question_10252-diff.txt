@@ -1,0 +1,6 @@
+question_10252-easy.py 與 question_10252-optimized.py 差異
+
+1. easy 版使用 Counter 與集合交集；optimized 版改用固定 256 格 ASCII 計數陣列。
+2. optimized 版不需要建立 Counter 物件，對大量測資時常數成本更低。
+3. 輸出結果仍然相同，都是依字元由小到大輸出共同字元。
+4. 這個優化版主要是把重點放在效能，而不是可讀性。

@@ -1,0 +1,6 @@
+question_10235-easy.py 與 question_10235-optimized.py 差異
+
+1. easy 版每次都重新試除；optimized 版加入 lru_cache，重複數字不會重算。
+2. easy 版用奇數逐一試除；optimized 版改用 6k +/- 1，除法次數更少。
+3. easy 版用字串反轉數字；optimized 版改用整數運算，少一點字串配置。
+4. 兩者輸出格式完全相同，但 optimized 版在測資較多時會更快。
